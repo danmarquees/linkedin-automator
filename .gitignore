@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+__pycache__/
+
+# Configuração do Usuário
+config/user_config.yaml
+
+# Dados da Sessão
+data/browser_state/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+.zed/
